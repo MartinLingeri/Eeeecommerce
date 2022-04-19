@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/Eeeecommerce/static/js/main.4551fada.js",
+    "static/js/377.c1855308.chunk.js": "/Eeeecommerce/static/js/377.c1855308.chunk.js",
+    "static/media/golDiegoIngleses.jpg": "/Eeeecommerce/static/media/golDiegoIngleses.eabdb54c6020c3664995.jpg",
+    "index.html": "/Eeeecommerce/index.html",
+    "main.4551fada.js.map": "/Eeeecommerce/static/js/main.4551fada.js.map",
+    "377.c1855308.chunk.js.map": "/Eeeecommerce/static/js/377.c1855308.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4551fada.js"
+  ]
+}
