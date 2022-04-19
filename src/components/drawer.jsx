@@ -66,7 +66,7 @@ export default function ItemsDrawer({
       <DrawerOverlay />
       <DrawerContent>
         <DrawerCloseButton />
-        <DrawerHeader fontWeight="bold">Your Order</DrawerHeader>
+        <DrawerHeader fontWeight="bold">Tu Pedido</DrawerHeader>
         <DrawerBody>
           <Stack divider={<StackDivider borderColor="gray.200" />}>
             {cart.map((cartItem, index) => (
@@ -127,7 +127,7 @@ export default function ItemsDrawer({
                 wppText
               )}`}
             >
-              Order ({itemsCount} items)
+              Realizar Pedido ({itemsCount} items)
             </Button>
           </Stack>
         </DrawerFooter>
