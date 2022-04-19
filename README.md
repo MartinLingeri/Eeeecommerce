@@ -1,6 +1,6 @@
 # Eeecommerce
 
-Ecommerce hecho con React y Chakra-UI con tematica de Maradona.
+Ecommerce hecho con React y Chakra-UI con checkout a Whatsapp con tematica de Maradona.
 
 Deploy:
 
