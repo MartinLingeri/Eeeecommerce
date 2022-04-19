@@ -110,9 +110,9 @@ export default function ItemsDrawer({
         </DrawerBody>
         <DrawerFooter paddingInline={8}>
           <Stack w="100%">
-            <Stack direction="row" justifyContent="space-between">
-              <Text>Total</Text>
-              <Text>{cartTotal}</Text>
+            <Stack direction="row" justifyContent="space-between" >
+              <Text fontSize="lg" fontWeight="semibold">Total</Text>
+              <Text fontWeight="bold">{cartTotal}</Text>
             </Stack>
             <Divider />
             <Button
