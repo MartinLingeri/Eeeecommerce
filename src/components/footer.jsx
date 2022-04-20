@@ -6,8 +6,8 @@ export default function Footer() {
     <Stack justifyContent="center" alignItems="center">
       <Divider borderColor="gray.200" />
       <Heading as="h2" size="sm" fontWeight="semibold" textAlign="center">
-        Este sitio NO es utilizado como pagina de compras real, esta hecho solo con
-        el fin de aprender mas sobre React y Chakra-UI
+        Este sitio NO es una pagina de compras real, fue realizada
+        exclusivamente con un fin educativo
       </Heading>
     </Stack>
   );
